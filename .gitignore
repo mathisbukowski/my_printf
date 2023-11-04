@@ -1,0 +1,9 @@
+*.a
+*.out
+*.c~
+*.c#
+./unit_tests
+*.gcda
+*.gcno
+.idea
+src/main.c
